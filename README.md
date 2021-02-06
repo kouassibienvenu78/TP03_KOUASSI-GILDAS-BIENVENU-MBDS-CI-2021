@@ -4,7 +4,7 @@ TP03_KOUASSI-GILDAS-BIENVENU-MBDS-CI-2021
 
 Pour exécuter le TP03-DE-KOUASSI-GILDAS-BIENVENU :
 
-1) ouvrir le projet avec netbeans (celui en forme de triangle si projet EE, cocher la case "open related projects")
+1) ouvrir le projet avec netbeans ( importer le projet)
 2) regarder dans "server resources" le fichier glassfish-resources.xml
 il contient le nom et logins et passwords de la base de données
         <property name="databaseName" value="utilisateurs"/>
